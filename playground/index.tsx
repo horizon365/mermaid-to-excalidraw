@@ -84,7 +84,7 @@ const App = () => {
             onChange={handleOnChange}
           />
         </section>
-        <GitHubCorner />
+        {/*<GitHubCorner />*/}
       </div>
 
       <Testcases
